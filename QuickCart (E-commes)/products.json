@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "price": 59.99,
+    "image": "https://images.unsplash.com/photo-1580894894512-ea82f57d5c4e?auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 2,
+    "name": "Stylish Backpack",
+    "price": 39.99,
+    "image": "https://images.unsplash.com/photo-1598032893512-aceb4c7eb7c6?auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 3,
+    "name": "Smart Watch",
+    "price": 89.99,
+    "image": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7?auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 4,
+    "name": "Running Shoes",
+    "price": 74.99,
+    "image": "https://images.unsplash.com/photo-1618354691323-90e187c3a15d?auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 5,
+    "name": "Casual T-Shirt",
+    "price": 19.99,
+    "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 6,
+    "name": "Sunglasses",
+    "price": 24.99,
+    "image": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?auto=format&fit=crop&w=500&q=60"
+  }
+]
